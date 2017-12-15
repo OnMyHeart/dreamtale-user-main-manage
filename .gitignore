@@ -1,0 +1,11 @@
+.idea/
+logs/
+build/
+.class
+/.gradle/*
+/dreamtale-user-main-manage.iml
+.settings/
+.git/
+.gradle/
+.classpath
+.project
