@@ -36,6 +36,6 @@ dependencies {
 }
 
 springBoot {
-	mainClass = 'com.jyall.automini.promotion.service.PromotionServiceApp'
+	mainClass = 'com.dreamtale.user.service.UserServiceApp'
 	requiresUnpack = ['com.wordnik:swagger-jersey2-jaxrs_2.10']
 }
