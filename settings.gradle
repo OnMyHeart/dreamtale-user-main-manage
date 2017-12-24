@@ -1,4 +1,5 @@
 rootProject.name = 'dreamtale-user-main-manage'
 include 'dreamtale-user-service'
 include 'dreamtale-user-api'
+include 'dreamtale-common-utils'
 
